@@ -53,6 +53,7 @@ END
 
 
 **OUTPUT:**
+<img width="963" height="326" alt="Screenshot 2025-10-23 121034" src="https://github.com/user-attachments/assets/c635c38a-b4c5-473b-ab50-fb20db0c908c" />
 
 **MEMORY WINDOW:**
 
@@ -113,6 +114,7 @@ DJNZ R7,LOOP1
 END
 
 **OUTPUT:**
+<img width="751" height="469" alt="Screenshot 2025-10-23 121133" src="https://github.com/user-attachments/assets/c80c641f-f35c-40b7-a7d2-1c5d0c60330c" />
 
 **MEMORY WINDOW:** 
 
